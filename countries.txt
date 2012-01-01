@@ -1,0 +1,176 @@
+Yukon
+Northwest Territories
+Nunavut
+British Columbia
+Alberta
+Manitoba
+Ontario
+Quebec
+Newfoundland
+New Brunswick
+*
+Oregon
+California
+Montana
+Great Basin
+Southwest
+Texas
+Colorado
+*
+Kansas
+Wisonsin
+Ohio
+New England
+Gulf Coast
+Tennessee
+Florida
+*
+Baja
+Mexico
+Cuba
+Panama
+*
+Columbia
+Venezuela
+Brazil
+Peru
+Bolivia
+Paraguay
+Uruguay
+Argentina
+*
+Russkaya
+Siple
+Halley
+Novolazarevskaya
+Mawson
+Scott
+South Pole
+*
+Qaanaaq
+Nord
+Kangerlussuaq
+Nuuk
+Danmark Havn
+Itseqqortoormiit
+Iceland
+*
+Svalbard
+Norway
+Sweden
+Finland
+*
+UK
+Spain
+France
+Germany
+italy
+Poland
+Romania
+Ukraine
+Belarus
+*
+Mali
+Mauritania
+Algeria
+Niger
+Libya
+*
+Ghana
+Nigeria
+Chad
+Cameroon
+Congo
+*
+Egypt
+Sudan
+Ethiopia
+Somalia
+Kenya
+*
+Angola
+Botswana
+Namibia
+South Africa
+Madagascar
+*
+Murmansk
+St. Petersburg
+Moscow
+Arkhangelsk
+Perm
+Ufa
+Vorkuta
+Khanty-Mansiysk
+*
+Dudinka
+Omsk
+Tomsk
+Tiksi
+Jessej
+Tura
+Krasnojarsk
+*
+Georgia
+Western Kazakhstan
+Eastern Kazakhstan
+Turkmenistan
+Kyrgyzstan
+Tadschikistan
+*
+Turkey
+Israel
+Saudi Arabia
+Iraq
+Iran
+Afghanistan
+*
+Western Siberia
+Eastern Siberia
+Zigansk
+Irkutsk
+Chita
+Mys Lopatk
+Khabarovsk
+Magadan
+Anadyr
+Kamchatka
+*
+Mongolia
+Inner Mongolia
+Xinjiang
+Tibet
+Qinghai
+Shaanxi
+Heilongjiang
+*
+Beijing
+Jiangxi
+Hong Kong
+Shanghai
+Taiwan
+*
+Pakistan
+India
+Myanmar
+Thailand
+*
+Malaysia
+Borneo
+Philippines
+Papua New Guinea
+Solomon Islands
+*
+Western Australia
+Northern Territory
+South Australia
+Queensland
+New Southwales
+Victoria
+Tasmania
+New Zealand
+*
+Alaska
+Hawaii
+Japan
+Korea

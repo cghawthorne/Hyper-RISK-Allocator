@@ -1,0 +1,181 @@
+153 countries
+******
+
+Player 1
+31 countries
+------
+Newfoundland
+Nunavut
+California
+Oregon
+Florida
+Panama
+Brazil
+Bolivia
+Siple
+Nuuk
+Svalbard
+France
+UK
+Libya
+Congo
+Ethiopia
+Namibia
+Arkhangelsk
+Moscow
+Krasnojarsk
+Eastern Kazakhstan
+Israel
+Khabarovsk
+Mys Lopatk
+Xinjiang
+Heilongjiang
+Beijing
+India
+Borneo
+Queensland
+Japan
+======
+
+Player 2
+31 countries
+------
+Northwest Territories
+Quebec
+Texas
+Montana
+Tennessee
+Cuba
+Argentina
+Russkaya
+South Pole
+Iceland
+Sweden
+italy
+Romania
+Niger
+Nigeria
+Egypt
+Angola
+St. Petersburg
+Omsk
+Tiksi
+Kyrgyzstan
+Saudi Arabia
+Magadan
+Irkutsk
+Qinghai
+Tibet
+Taiwan
+Philippines
+Victoria
+Western Australia
+Alaska
+======
+
+Player 3
+31 countries
+------
+Manitoba
+Alberta
+Great Basin
+Gulf Coast
+New England
+Baja
+Paraguay
+Novolazarevskaya
+Scott
+Danmark Havn
+Norway
+Belarus
+Ukraine
+Mali
+Cameroon
+Kenya
+South Africa
+Vorkuta
+Tura
+Jessej
+Tadschikistan
+Iraq
+Zigansk
+Chita
+Inner Mongolia
+Shanghai
+Myanmar
+Papua New Guinea
+New Southwales
+New Zealand
+Korea
+======
+
+Player 4
+30 countries
+------
+New Brunswick
+British Columbia
+Colorado
+Ohio
+Kansas
+Venezuela
+Uruguay
+Mawson
+Itseqqortoormiit
+Nord
+Finland
+Spain
+Mauritania
+Chad
+Somalia
+Madagascar
+Perm
+Khanty-Mansiysk
+Tomsk
+Georgia
+Turkmenistan
+Afghanistan
+Anadyr
+Western Siberia
+Shaanxi
+Jiangxi
+Pakistan
+Solomon Islands
+Tasmania
+Northern Territory
+======
+
+Player 5
+30 countries
+------
+Yukon
+Ontario
+Southwest
+Wisonsin
+Mexico
+Peru
+Columbia
+Halley
+Qaanaaq
+Kangerlussuaq
+Germany
+Poland
+Algeria
+Ghana
+Sudan
+Botswana
+Murmansk
+Ufa
+Dudinka
+Western Kazakhstan
+Iran
+Turkey
+Kamchatka
+Eastern Siberia
+Mongolia
+Hong Kong
+Thailand
+Malaysia
+South Australia
+Hawaii
+======
+
