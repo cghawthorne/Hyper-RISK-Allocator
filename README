@@ -1,0 +1,3 @@
+A program for determining initial country allocations for a large-scale
+(i.e., more countries than usual) RISK-style game. Makes a best effort at
+ensuring an allocation that doesn't give any one player an advantage.
