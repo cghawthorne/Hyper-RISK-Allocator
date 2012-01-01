@@ -8,39 +8,36 @@ MIN_TO_CONQUER = 2
 
 #####
 
-groups = [[]]
+countries = []
+countries_by_territory = []
 players = Array.new(NUM_PLAYERS) { Array.new }
 
 country_counter = 0
-group_counter = 0
+territory_counter = 0
 File.open("countries.txt", "r").each_line do |line|
   if line.start_with? '*' then
-    groups.push([])
-    group_counter += 1
+    countries_by_territory.push(country_counter)
+    territory_counter += 1
+    country_counter = 0
     next
   end
 
-  groups[group_counter].push([line.chomp, group_counter])
+  countries.push([line.chomp, territory_counter])
   country_counter += 1
 end
 
-puts "#{country_counter} countries"
+puts "#{countries.length} countries"
+puts "#{territory_counter} territories"
+puts "#{players.length} players"
 puts "******"
 puts
 
-global_territory_totals = Array.new(groups.length) do |group|
-  groups[group].length
-end
-
-while groups.length > 0
+while countries.length > 0
   players.each do |player|
-    if groups[0].length == 0 then
-      groups.shift
-    end
-    if groups.length == 0 then
+    if countries.length == 0 then
       break
     end
-    player.push(groups[0].slice!(rand(groups[0].length)))
+    player.push(countries.slice!(rand(countries.length)))
   end
 end
 
@@ -52,7 +49,7 @@ players.each_index do |player_idx|
   puts "#{player.length} countries"
   puts "------"
   player.each do |country|
-    puts country[0]
+    puts "#{country[0]}" # - territory #{country[1]}"
     player_territory_count[country[1]] += 1
   end
   puts "======"
@@ -60,8 +57,9 @@ players.each_index do |player_idx|
 
   # Check for unfair territory advantage
   player_territory_count.each_pair do |territory, count|
-    if count > (global_territory_totals[territory] - MIN_TO_CONQUER) then
-      puts "Player has unfair advantage! Run again."
+    if count > (countries_by_territory[territory] - MIN_TO_CONQUER) then
+      puts "Player #{player_idx+1} has an unfair advantage in territory " +
+        "#{territory}! Run again."
       exit
     end
   end

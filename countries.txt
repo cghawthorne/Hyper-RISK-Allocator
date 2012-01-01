@@ -174,3 +174,4 @@ Alaska
 Hawaii
 Japan
 Korea
+*
