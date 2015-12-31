@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-NUM_PLAYERS = 5
+NUM_PLAYERS = 4
 
 # A player can own at most (N - MIN_TO_CONQUER) territories in a region with N
 # territories to prevent getting a territory bonus too early in the game.

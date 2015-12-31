@@ -1,183 +1,178 @@
 153 countries
 24 territories
-5 players
+4 players
 ******
 
 Player 1
-31 countries
+39 countries
 ------
-Tasmania
-Mongolia
-Nord
-Halley
-Danmark Havn
-Itseqqortoormiit
-Solomon Islands
-Egypt
-Newfoundland
-Pakistan
-Wisonsin
-New Southwales
-Inner Mongolia
 Poland
-Baja
-Tura
-Kenya
-Columbia
-Khabarovsk
-Ukraine
-Kyrgyzstan
-Xinjiang
-Dudinka
-Perm
-Bolivia
-Philippines
-Chad
-Turkey
-Papua New Guinea
+Svalbard
+Mexico
+Gulf Coast
+Georgia
 Montana
-Nuuk
+Niger
+Kangerlussuaq
+Jiangxi
+Hong Kong
+Papua New Guinea
+Ontario
+Omsk
+Bolivia
+Argentina
+Qinghai
+Iraq
+Manitoba
+Great Basin
+Khabarovsk
+Spain
+Tibet
+Afghanistan
+South Australia
+British Columbia
+Murmansk
+Ghana
+Quebec
+Paraguay
+Solomon Islands
+Mys Lopatk
+Scott
+Chad
+Colorado
+Ufa
+Myanmar
+California
+Sweden
+Hawaii
 ======
 
 Player 2
-31 countries
+38 countries
 ------
-Northern Territory
-Panama
-Southwest
-Omsk
-Tiksi
-Thailand
-St. Petersburg
-Ontario
-Beijing
-Texas
-Vorkuta
-Svalbard
-Paraguay
-Victoria
-Namibia
-Qaanaaq
-Sudan
+Mawson
+Botswana
+UK
+Magadan
+Jessej
+Venezuela
+Congo
+Norway
+South Pole
 Yukon
 Angola
-Oregon
-Magadan
-Jiangxi
+Thailand
+Uruguay
+italy
+Tomsk
 Nigeria
-Chita
-Gulf Coast
-Saudi Arabia
-Georgia
-Turkmenistan
-South Africa
-New Brunswick
-Brazil
+Turkey
+Germany
+Iceland
+New Southwales
+Peru
+Arkhangelsk
+Israel
+Tura
+Wisonsin
+Nunavut
+Taiwan
+Cameroon
+Florida
+Panama
+Western Siberia
+Finland
+Anadyr
+Southwest
+Xinjiang
+Tiksi
+Mongolia
+New Zealand
 ======
 
 Player 3
-31 countries
+38 countries
 ------
-Tibet
-Kansas
-Zigansk
-South Australia
-Afghanistan
-South Pole
+Belarus
+Tasmania
+Irkutsk
+Ethiopia
+Sudan
+Kenya
+Siple
 Alaska
-Scott
-Mauritania
-India
-Qinghai
-UK
-Alberta
-Sweden
-Colorado
-British Columbia
-Florida
-Hawaii
-Malaysia
-Krasnojarsk
-Northwest Territories
-Eastern Kazakhstan
-Spain
-Kangerlussuaq
 Queensland
-Iraq
+New Brunswick
+Cuba
+Namibia
+Romania
+New England
+Northern Territory
+India
+Saudi Arabia
+Madagascar
 Libya
-Tennessee
-Anadyr
-Cameroon
-Argentina
+Kamchatka
+Mali
+Tadschikistan
+Qaanaaq
+Newfoundland
+Moscow
+Columbia
+Western Kazakhstan
+Danmark Havn
+Kansas
+Eastern Siberia
+Alberta
+Malaysia
+Inner Mongolia
+Krasnojarsk
+Nuuk
+Beijing
+Itseqqortoormiit
+Algeria
 ======
 
 Player 4
-30 countries
+38 countries
 ------
-Cuba
-Borneo
-Western Siberia
-Heilongjiang
-Quebec
-Nunavut
-Korea
-Romania
-Niger
-Ohio
-Hong Kong
-Ethiopia
-Irkutsk
-Iceland
-Japan
-Finland
-Belarus
-New Zealand
-Israel
-Somalia
-Botswana
-Congo
-Jessej
-Novolazarevskaya
-Moscow
-Manitoba
-italy
-Venezuela
-Ufa
-Taiwan
-======
-
-Player 5
-30 countries
-------
-Norway
-Madagascar
-California
-Algeria
-Germany
-Mexico
+Texas
+Kyrgyzstan
+Zigansk
+Baja
+Victoria
 Russkaya
-Khanty-Mansiysk
-Mali
-Arkhangelsk
+Brazil
+Somalia
+Chita
+Northwest Territories
+St. Petersburg
 Shaanxi
-Siple
-Shanghai
-Murmansk
-Ghana
-Eastern Siberia
-Tadschikistan
-Kamchatka
-Peru
-Western Australia
-Mawson
-Western Kazakhstan
-Great Basin
+Ukraine
 Iran
-Uruguay
-New England
-Tomsk
-Mys Lopatk
+Mauritania
 France
-Myanmar
+Dudinka
+Oregon
+Novolazarevskaya
+Japan
+South Africa
+Shanghai
+Korea
+Halley
+Western Australia
+Vorkuta
+Egypt
+Ohio
+Perm
+Philippines
+Tennessee
+Nord
+Pakistan
+Turkmenistan
+Borneo
+Heilongjiang
+Khanty-Mansiysk
+Eastern Kazakhstan
 ======
 
