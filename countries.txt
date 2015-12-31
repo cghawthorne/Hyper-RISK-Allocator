@@ -3,11 +3,8 @@ Northwest Territories
 Nunavut
 British Columbia
 Alberta
-Manitoba
 Ontario
 Quebec
-Newfoundland
-New Brunswick
 *
 Oregon
 California
@@ -17,9 +14,9 @@ Southwest
 Texas
 Colorado
 *
-Kansas
-Wisonsin
-Ohio
+Midwest
+Western Great Lakes
+Eastern Great Lakes
 New England
 Gulf Coast
 Tennessee
@@ -33,23 +30,16 @@ Panama
 Columbia
 Venezuela
 Brazil
-Peru
 Bolivia
-Paraguay
-Uruguay
 Argentina
 *
-Russkaya
 Siple
-Halley
 Novolazarevskaya
-Mawson
 Scott
 South Pole
 *
 Qaanaaq
 Nord
-Kangerlussuaq
 Nuuk
 Danmark Havn
 Itseqqortoormiit
@@ -64,11 +54,9 @@ UK
 Spain
 France
 Germany
-italy
+Italy
 Poland
-Romania
 Ukraine
-Belarus
 *
 Mali
 Mauritania
@@ -95,21 +83,16 @@ South Africa
 Madagascar
 *
 Murmansk
-St. Petersburg
 Moscow
 Arkhangelsk
-Perm
 Ufa
 Vorkuta
-Khanty-Mansiysk
 *
 Dudinka
 Omsk
 Tomsk
-Tiksi
 Jessej
 Tura
-Krasnojarsk
 *
 Georgia
 Western Kazakhstan
@@ -127,12 +110,9 @@ Afghanistan
 *
 Western Siberia
 Eastern Siberia
-Zigansk
-Irkutsk
 Chita
 Mys Lopatk
 Khabarovsk
-Magadan
 Anadyr
 Kamchatka
 *
@@ -162,11 +142,9 @@ Papua New Guinea
 Solomon Islands
 *
 Western Australia
-Northern Territory
 South Australia
 Queensland
 New Southwales
-Victoria
 Tasmania
 New Zealand
 *
